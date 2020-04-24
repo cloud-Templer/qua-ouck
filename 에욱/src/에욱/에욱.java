@@ -14,6 +14,7 @@ public class 에욱 {
 		System.out.println("집에 가고싶어");
 		
 		System.out.println("에욱");
+		System.out.println("날 막아봐!");
 	}
 
 }
